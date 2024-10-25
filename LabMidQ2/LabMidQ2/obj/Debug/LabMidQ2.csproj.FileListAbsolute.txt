@@ -1,0 +1,7 @@
+D:\University Data\7th Semester\Compiler Construction\Lab\source\repos\LabMidQ2\LabMidQ2\bin\Debug\LabMidQ2.exe.config
+D:\University Data\7th Semester\Compiler Construction\Lab\source\repos\LabMidQ2\LabMidQ2\bin\Debug\LabMidQ2.exe
+D:\University Data\7th Semester\Compiler Construction\Lab\source\repos\LabMidQ2\LabMidQ2\bin\Debug\LabMidQ2.pdb
+D:\University Data\7th Semester\Compiler Construction\Lab\source\repos\LabMidQ2\LabMidQ2\obj\Debug\LabMidQ2.csproj.AssemblyReference.cache
+D:\University Data\7th Semester\Compiler Construction\Lab\source\repos\LabMidQ2\LabMidQ2\obj\Debug\LabMidQ2.csproj.CoreCompileInputs.cache
+D:\University Data\7th Semester\Compiler Construction\Lab\source\repos\LabMidQ2\LabMidQ2\obj\Debug\LabMidQ2.exe
+D:\University Data\7th Semester\Compiler Construction\Lab\source\repos\LabMidQ2\LabMidQ2\obj\Debug\LabMidQ2.pdb
