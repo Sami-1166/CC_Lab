@@ -1,0 +1,7 @@
+D:\University Data\7th Semester\Compiler Construction\Lab\source\repos\Lab_Final\Lab_Final\obj\Debug\Lab_Final.csproj.AssemblyReference.cache
+D:\University Data\7th Semester\Compiler Construction\Lab\source\repos\Lab_Final\Lab_Final\obj\Debug\Lab_Final.csproj.CoreCompileInputs.cache
+D:\University Data\7th Semester\Compiler Construction\Lab\source\repos\Lab_Final\Lab_Final\bin\Debug\Lab_Final.exe.config
+D:\University Data\7th Semester\Compiler Construction\Lab\source\repos\Lab_Final\Lab_Final\bin\Debug\Lab_Final.exe
+D:\University Data\7th Semester\Compiler Construction\Lab\source\repos\Lab_Final\Lab_Final\bin\Debug\Lab_Final.pdb
+D:\University Data\7th Semester\Compiler Construction\Lab\source\repos\Lab_Final\Lab_Final\obj\Debug\Lab_Final.exe
+D:\University Data\7th Semester\Compiler Construction\Lab\source\repos\Lab_Final\Lab_Final\obj\Debug\Lab_Final.pdb
