@@ -1,0 +1,7 @@
+D:\University Data\7th Semester\Compiler Construction\Lab\source\repos\Lab_Terminal_Q6\Lab_Terminal_Q6\bin\Debug\Lab_Terminal_Q6.exe.config
+D:\University Data\7th Semester\Compiler Construction\Lab\source\repos\Lab_Terminal_Q6\Lab_Terminal_Q6\bin\Debug\Lab_Terminal_Q6.exe
+D:\University Data\7th Semester\Compiler Construction\Lab\source\repos\Lab_Terminal_Q6\Lab_Terminal_Q6\bin\Debug\Lab_Terminal_Q6.pdb
+D:\University Data\7th Semester\Compiler Construction\Lab\source\repos\Lab_Terminal_Q6\Lab_Terminal_Q6\obj\Debug\Lab_Terminal_Q6.csproj.AssemblyReference.cache
+D:\University Data\7th Semester\Compiler Construction\Lab\source\repos\Lab_Terminal_Q6\Lab_Terminal_Q6\obj\Debug\Lab_Terminal_Q6.csproj.CoreCompileInputs.cache
+D:\University Data\7th Semester\Compiler Construction\Lab\source\repos\Lab_Terminal_Q6\Lab_Terminal_Q6\obj\Debug\Lab_Terminal_Q6.exe
+D:\University Data\7th Semester\Compiler Construction\Lab\source\repos\Lab_Terminal_Q6\Lab_Terminal_Q6\obj\Debug\Lab_Terminal_Q6.pdb

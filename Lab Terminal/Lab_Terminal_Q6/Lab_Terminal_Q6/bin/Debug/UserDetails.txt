@@ -1,0 +1,11 @@
+Validation Results:
+John123 - Valid
+Generated Password: 4EZ!$cxF8^hu (Strength: Strong)
+
+AmyRose123 - Valid
+Generated Password: 4EZ!$cxF8^hu (Strength: Strong)
+
+Summary:
+- Total Usernames: 2
+- Valid Usernames: 2
+- Invalid Usernames: 0
