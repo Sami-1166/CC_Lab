@@ -1,0 +1,7 @@
+D:\University Data\7th Semester\Compiler Construction\Lab\source\repos\Lab 13 Manual\Lab 13 Manual\bin\Debug\Lab 13 Manual.exe.config
+D:\University Data\7th Semester\Compiler Construction\Lab\source\repos\Lab 13 Manual\Lab 13 Manual\bin\Debug\Lab 13 Manual.exe
+D:\University Data\7th Semester\Compiler Construction\Lab\source\repos\Lab 13 Manual\Lab 13 Manual\bin\Debug\Lab 13 Manual.pdb
+D:\University Data\7th Semester\Compiler Construction\Lab\source\repos\Lab 13 Manual\Lab 13 Manual\obj\Debug\Lab 13 Manual.csproj.AssemblyReference.cache
+D:\University Data\7th Semester\Compiler Construction\Lab\source\repos\Lab 13 Manual\Lab 13 Manual\obj\Debug\Lab 13 Manual.csproj.CoreCompileInputs.cache
+D:\University Data\7th Semester\Compiler Construction\Lab\source\repos\Lab 13 Manual\Lab 13 Manual\obj\Debug\Lab 13 Manual.exe
+D:\University Data\7th Semester\Compiler Construction\Lab\source\repos\Lab 13 Manual\Lab 13 Manual\obj\Debug\Lab 13 Manual.pdb
